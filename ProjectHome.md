@@ -1,0 +1,1 @@
+Google released the Google Chart API (http://code.google.com/apis/chart/) and Mashable complained about there not being a tool to generate the API URLs. I had an 11 hour flight from Europe, so I decided to give Ext 2 a twirl and came up with ChartMaker, a simple tool that creates charts for you.
